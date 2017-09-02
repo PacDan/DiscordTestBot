@@ -1,0 +1,25 @@
+{
+  "name": "discordtestbot",
+  "version": "0.0.0",
+  "description": "Test bot for discord",
+  "main": "testFile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacDan/DiscordTestBot.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Dan Vogel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacDan/DiscordTestBot/issues"
+  },
+  "homepage": "https://github.com/PacDan/DiscordTestBot#readme"
+}
